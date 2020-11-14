@@ -7,7 +7,7 @@ Model implemented with YOLO v3. App created with Dash
 
 **IMPORTANT**
 
-- You must download the data from this link: 
+- You must download the data from this link: https://drive.google.com/u/1/uc?export=download&confirm=RvgA&id=10777tL9PnvYKCxK78tSM_xSB_gsUXN-1
 - Then copy both folders in the project folder (This folder contains all the data requiered for YOLO V3 model)
 
 
