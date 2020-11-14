@@ -1,0 +1,17 @@
+flask
+plotly
+pandas
+dash
+dash-bootstrap-components
+azure-storage-blob
+numpy==1.18.2
+scipy>=1.4.1
+wget>=3.2
+seaborn>=0.10.0
+tensorflow==2.3.1
+tensorflow-gpu==2.3.1
+opencv-python==4.1.2.30
+tqdm==4.43.0
+awscli
+urllib3
+mss
