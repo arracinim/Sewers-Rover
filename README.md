@@ -6,7 +6,7 @@ Api and board for the detection of failures (specifically holes) in sewerage sys
 **IMPORTANT**
 
 - You must download the data from this link: 
-- Then copy both folders in the project folder 
+- Then copy both folders in the project folder (This folder contains all the data requiered for YOLO V3 model)
 
 
 Thanks for being intersted in this project. 
