@@ -63,7 +63,7 @@ python tools/XML_to_YOLOv3.py
 * Training
 Before starting the training process, change the Transfer Learning and Data Augmetation parameters to True in the `./yolov3/configs.py` file.
 
-https://github.com/arracinim/Sewers-Rover/blob/master/Train_Options.png
+![IMAGEN_1](https://github.com/arracinim/Sewers-Rover/blob/master/Train_Options.png)
 
 
 Now, you can train it and then evaluate your model
