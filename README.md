@@ -108,8 +108,8 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 
 | Detection | giou_loss | giou_val_loss | total_loss | total_val_loss | mAP | FPS |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| YOLOv3 TF2 | 0.53  | 1.26  | 1.19  | 4.25  | 89.36%  |
-| YOLOv4 TF2| Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 84.81% | 4.13 |
-| YOLOv5 PyThorc | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 83.50  |
+| `YOLOv3 TF2` | 0.53  | 1.26  | 1.19  | 4.25  | 89.36%  | 4.13 |
+| `YOLOv4 TF2`| 0.95  |2.68  |4.89  |8.90  | 82.81% | 1.96 |
+| `YOLOv5 PyTorch` | 1.13  |3.01  | 10.03  | 79.73  | 1.82  |
 
 
