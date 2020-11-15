@@ -31,3 +31,13 @@ YOLOv3 and YOLOv4 implementation in TensorFlow 2.x, with support for training, t
 
 ### Installation
 First, download this https://drive.google.com/drive/folders/1ege1-3IYXj_xiVQ3IBQEBsbxsYj66ERi?usp=sharing repository. Install requirements and download pretrained weights:
+```
+pip install -r ./requirements.txt
+
+# yolov3
+wget -P model_data https://pjreddie.com/media/files/yolov3.weights
+
+# yolov4
+wget -P model_data https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
+
+```
