@@ -63,7 +63,7 @@ python tools/XML_to_YOLOv3.py
 * Training
 Before starting the training process, change the Transfer Learning and Data Augmetation parameters to True in the `./yolov3/configs.py` file.
 
-![IMAGEN_1](https://github.com/arracinim/Sewers-Rover/blob/master/Train_Options.png)
+![IMAGEN_1](https://github.com/arracinim/Sewers-Rover/blob/master/static/Train_Options.png)
 
 Now, you can train it and then evaluate your model:
 ```
@@ -76,8 +76,8 @@ When the training is finished, for this case 12.5 hours, the model is evaluated 
 tensorboard --logdir=log
 Track training progress in Tensorboard and go to http://localhost:6006/:
 ```
-![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Train.png)
-![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Valid.png)
+![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/Tensor_Board_Train.png)
+![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/static/Tensor_Board_Valid.png)
 
 * In none of the metrics given by *TensorBoard* is it possible to observe over or under adjustment problems. 
 * The total error tended to decrease in the two (2) dates as the epochs increased.
@@ -90,8 +90,9 @@ Track training progress in Tensorboard and go to http://localhost:6006/:
 python detection_custom.py
 ```
 
-
 The model presented a performance according to what was expected in the detection of anomalies of the sewer system, generalizing in its prediction; as shown in the following samples.
+
+![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/static/DE1_detect.jpg)
 
 The *giou* metric evidenced the power of the algorithm when differentiating images from above, such as roots with deposits.
 
