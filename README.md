@@ -108,7 +108,8 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 
 | Detection | giou_loss | giou_val_loss | total_loss | total_val_loss | mAP |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| YOLOv3  | Contenido de la celda  | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |
-| YOLOv4  | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |
+| YOLOv3 TF2 | Contenido de la celda  | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 89.36%  |
+| YOLOv4 TF2| Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 84.81%  |
+| YOLOv5 PyThorc | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 83.6  |
 
 
