@@ -106,10 +106,10 @@ The *giou* metric evidenced the power of the algorithm when differentiating imag
 ### Comparison
 Different experiments were carried out with the different versions of YOLO: V3, V4 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
 
-| Detection | giou_loss | giou_val_loss | total_loss | total_val_loss | mAP |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| YOLOv3 TF2 | Contenido de la celda  | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 89.36%  |
-| YOLOv4 TF2| Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 84.81%  |
-| YOLOv5 PyThorc | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 83.6  |
+| Detection | giou_loss | giou_val_loss | total_loss | total_val_loss | mAP | FPS |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| YOLOv3 TF2 | 0.53  | 1.26  | 1.19  | 4.25  | 89.36%  |
+| YOLOv4 TF2| Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 84.81% | 4.13 |
+| YOLOv5 PyThorc | Contenido de la celda  |Contenido de la celda  |Contenido de la celda  |Contenido de la celda  | 83.50  |
 
 
