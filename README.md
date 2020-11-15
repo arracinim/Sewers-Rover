@@ -70,7 +70,7 @@ Now, you can train it and then evaluate your model:
 python train.py
 ```
 
-When the training is finished, for this case 12.5 hours, the model is evaluated with the TensorFlow tool called TensorBoard
+When the training is finished, for this case 12.5 hours, the model is evaluated with the *TensorFlow* tool called *TensorBoard*.
 
 ```
 tensorboard --logdir=log
@@ -79,8 +79,13 @@ Track training progress in Tensorboard and go to http://localhost:6006/:
 ![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Train.png)
 ![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Valid.png)
 
+* In none of the metrics given by *TensorBoard* is it possible to observe over or under adjustment problems. 
+* The total error tended to decrease in the two (2) dates as the epochs increased.
+* The convolutional layers (conv2d_74, conv2d_66, conv2d_58) were frozen in order to take advantage of the general characteristics of the pre-trained images in the *COCO* Data set (shadows, background, edges, among others) and to concentrate the Transfer Learning process on those particular characteristics of the anomalies present in the sewer systems.
+* 
+
 
 ### Test detection with `detection_custom.py` script:
-
+* habalr del GIOU o solapamiento dfe imagenes
 ### Comparison
 Different experiments were carried out with the different versions of YOLO: V3, V4 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
