@@ -115,3 +115,4 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 ## References
 * https://pylessons.com/
 * https://github.com/pythonlessons/YOLOv3-object-detection-tutorial
+* https://github.com/ultralytics/yolov5
