@@ -56,9 +56,9 @@ python detection_demo.py
 ### Transfer Learning
 * Convert pascal voc format images to YOLO
 ```
-python tools/mnist/make_data.py
+python tools/XML_to_YOLOv3.py
 ```
-
+*For this case, three (3) labels were used: HOLES, ROOTS and DEPOSITS. The above, due to the fact that according to the descriptive results they are the most frequent and have a high impact on sanitation problems.*
 
 python mnist/make_data.py
 ./yolov3/configs.py file is already configured for mnist training.
