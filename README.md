@@ -81,3 +81,5 @@ Track training progress in Tensorboard and go to http://localhost:6006/:
 
 ### Test detection with `detection_custom.py` script:
 
+### Comparison
+Different experiments were carried out with the different versions of YOLO: V3, V4 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
