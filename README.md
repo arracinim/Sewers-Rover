@@ -120,3 +120,10 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 ## Thanks
 * # *MinTic*
 * # *epm*
+* # *DD4*
+* # *TAs*
+* # *TA OSCAR*
+* # *TA ALI*
+* # *NATESH*my
+* # *NELSON epm*
+* # *TEAM7*
