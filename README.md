@@ -14,5 +14,6 @@ Model implemented with YOLO v3. App created with Dash
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
 ## Notebook in **COLAB**
-To use the YOLOv3_YOLOv4_colab_training_TL.ipynb notebook, the user must change the execution environment to GPU in COLAB and upload the following repository to its driver **. If you want to increase the number of images in the TL process, you must proceed to label them in PASCAL VOC format in the market application that the user sees fit. In addition, if it is required to increase the training periods or the learning rate; As well as, to activate the TL and DA process, one must resort to the /yolov3/configs.py file in the repository in DRIVE and change these parameters.
+To use the `YOLOv3_YOLOv4_colab_training_TL.ipynb` notebook, the user must change the runtime to GPU in *COLAB* and upload the following repository 
+in your personal DRIVER xx. If you want to increase the number of images in the Transfer Learning process, you must proceed to label them in PASCAL VOC format in the label application that the user sees fit. In addition, if it is required to increase the training periods or the learning rate; As well as, to activate the Transfer Learning and Data Augmentation process, one must resort to the `./yolov3/configs.py` file in the repository in DRIVE and change these parameters.
 
