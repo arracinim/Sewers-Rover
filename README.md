@@ -41,3 +41,30 @@ wget -P model_data https://pjreddie.com/media/files/yolov3.weights
 wget -P model_data https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 ```
+
+### Quick start
+Start with using pretrained weights to test predictions on both image and video:
+```
+python detection_demo.py
+```
+
+### Quick training for custom dataset (Sewer's Anomalies) 
+./custom_dataset/ folder contains anomalies images, create training and test data :
+
+
+### Transfer Learning
+
+python mnist/make_data.py
+./yolov3/configs.py file is already configured for mnist training.
+
+Now, you can train it and then evaluate your model
+
+python train.py
+tensorboard --logdir=log
+Track training progress in Tensorboard and go to http://localhost:6006/:
+
+
+
+Test detection with detect_mnist.py script:
+
+python detect_mnist.py
