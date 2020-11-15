@@ -30,4 +30,4 @@ YOLOv3 and YOLOv4 implementation in TensorFlow 2.x, with support for training, t
 * Code was tested on Ubuntu and Windows 10 (TensorRT not supported officially)
 
 ### Installation
-First, clone or download this GitHub repository. Install requirements and download pretrained weights:
+First, download this https://drive.google.com/drive/folders/1ege1-3IYXj_xiVQ3IBQEBsbxsYj66ERi?usp=sharing repository. Install requirements and download pretrained weights:
