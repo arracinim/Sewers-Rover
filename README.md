@@ -92,7 +92,14 @@ python detection_custom.py
 
 The model presented a performance according to what was expected in the detection of anomalies of the sewer system, generalizing in its prediction; as shown in the following samples.
 
-![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/static/DE1_detect.jpg)
+![IMAGEN_4](https://github.com/arracinim/Sewers-Rover/blob/master/static/DE1_detect.jpg)
+![IMAGEN_5](https://github.com/arracinim/Sewers-Rover/blob/master/static/F1_detect.jpg)
+![IMAGEN_6](https://github.com/arracinim/Sewers-Rover/blob/master/static/HU01_detect.jpg)
+![IMAGEN_7](https://github.com/arracinim/Sewers-Rover/blob/master/static/HU2_detect.jpg)
+![IMAGEN_8](https://github.com/arracinim/Sewers-Rover/blob/master/static/RA_DE1_detect.jpg)
+![IMAGEN_9](https://github.com/arracinim/Sewers-Rover/blob/master/static/RA_DE2_detect.jpg)
+![IMAGEN_10](https://github.com/arracinim/Sewers-Rover/blob/master/static/RA0_detect.jpg)
+![IMAGEN_11](https://github.com/arracinim/Sewers-Rover/blob/master/static/RA2_detect.jpg)
 
 The *giou* metric evidenced the power of the algorithm when differentiating images from above, such as roots with deposits.
 
