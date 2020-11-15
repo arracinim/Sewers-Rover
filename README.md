@@ -65,7 +65,6 @@ Before starting the training process, change the Transfer Learning and Data Augm
 
 ![IMAGEN_1](https://github.com/arracinim/Sewers-Rover/blob/master/Train_Options.png)
 
-
 Now, you can train it and then evaluate your model:
 ```
 python train.py
@@ -77,6 +76,8 @@ When the training is finished, for this case 12.5 hours, the model is evaluated 
 tensorboard --logdir=log
 Track training progress in Tensorboard and go to http://localhost:6006/:
 ```
+![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Train.png)
+![IMAGEN_3](https://github.com/arracinim/Sewers-Rover/blob/master/Tensor_Board_Valid.png)
 
 
 ### Test detection with `detection_custom.py` script:
