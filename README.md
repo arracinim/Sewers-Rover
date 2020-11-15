@@ -61,7 +61,7 @@ python tools/XML_to_YOLOv3.py
 *For this case, three (3) labels were used: HOLES, ROOTS and DEPOSITS. The above, due to the fact that according to the descriptive results they are the most frequent and have a high impact on sanitation problems.*
 
 * Training
-Before starting the training process, change the TL and DA parameters to True in the utils.py file.
+Before starting the training process, change the Transfer Learning and Data Augmetation parameters to True in the `configs.py` file.
 python mnist/make_data.py
 ./yolov3/configs.py file is already configured for mnist training.
 
