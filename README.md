@@ -87,9 +87,13 @@ Track training progress in Tensorboard and go to http://localhost:6006/:
 
 ### Test detection with `detection_custom.py` script:
 ```
-detection_custom.py
+python detection_custom.py
 ```
 
-* habalr del GIOU o solapamiento dfe imagenes
+
+The model presented a performance according to what was expected in the detection of anomalies of the sewer system, generalizing in its prediction; as shown in the following samples.
+
+The *giou* metric evidenced the power of the algorithm when differentiating images from above, such as roots with deposits.
+
 ### Comparison
 Different experiments were carried out with the different versions of YOLO: V3, V4 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
