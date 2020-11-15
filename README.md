@@ -124,6 +124,8 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 * # *TAs*
 * # *TA OSCAR*
 * # *TA ALI*
-* # *NATESH*my
+* # *NATESH*
 * # *NELSON epm*
 * # *TEAM7*
+* # *ZARCH*
+* # *JIMMIE JAN*
