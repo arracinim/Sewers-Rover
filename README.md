@@ -13,3 +13,5 @@ Model implemented with YOLO v3. App created with Dash
 
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
+## COLAB
+
