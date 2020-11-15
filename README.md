@@ -49,10 +49,16 @@ python detection_demo.py
 ```
 
 ### Quick training for custom dataset (Sewer's Anomalies) 
-./custom_dataset/ folder contains anomalies images, create training and test data :
+`./custom_dataset/` folder contains anomalies images, create training and test data.<br>
 
+**Note:** In the original exercise the data had approximately 8000 tagged images.
 
 ### Transfer Learning
+* Convert pascal voc format images to YOLO
+```
+python tools/mnist/make_data.py
+```
+
 
 python mnist/make_data.py
 ./yolov3/configs.py file is already configured for mnist training.
