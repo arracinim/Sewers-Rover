@@ -9,7 +9,9 @@ Model implemented with YOLO v3. App created with Dash
 
 - You must download the data from this link: https://drive.google.com/u/1/uc?export=download&confirm=RvgA&id=10777tL9PnvYKCxK78tSM_xSB_gsUXN-1
 - Then copy both folders in the project folder (This folder contains all the data requiered for YOLO V3 model)
+- Finally inside the main folder of the project run the command: 
 
+'''python index.py'''
 
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
