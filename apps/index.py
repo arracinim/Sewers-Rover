@@ -96,7 +96,7 @@ layout_index = html.Div(className='row', style = {'width': '100%'}, children=[  
                             dbc.Col(style={'textAlign': 'center', 'with':'60%'},
                                 children=[
                                     html.Br(),
-                                    html.Iframe(src="https://www.youtube.com/embed/_zZe27JYi8Y", height='300px', width='500px', 
+                                    html.Iframe(src="https://www.youtube.com/embed/akZQXlQQjj8", height='300px', width='500px', 
                                         style = {'border': '5px solid hsla(0,0%,100%,.5)', 'background-clip': 'padding-box'}),  
                             ])   
                 ]), 
