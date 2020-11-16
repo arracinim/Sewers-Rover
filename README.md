@@ -127,5 +127,5 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 * # *NATESH*
 * # *NELSON epm*
 * # *TEAM7*
-* # *ZARCH*
-* # *JIMMIE JAN*
+* # *ZARCHARY*
+* # *JIMMI JING*
