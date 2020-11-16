@@ -104,7 +104,7 @@ The model presented a performance according to what was expected in the detectio
 The *giou* metric evidenced the power of the algorithm when differentiating images from above, such as roots with deposits.
 
 ### Comparison
-Different experiments were carried out with the different versions of YOLO: V3, V4 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
+Different experiments were carried out with the different versions of YOLO: V3, V4 with TF2 and v5, the latter uses the PyTorch algorithm for networking. In the end, due to performance issues in detection rather than speed, it was decided to work with YOLOv3.
 
 | Detection | giou_loss | giou_val_loss | total_loss | total_val_loss | mAP | FPS |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
