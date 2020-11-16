@@ -19,7 +19,7 @@ If you want to run the application locally:
 python index.py
 ```
 
-![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/app_2.jpg)
+![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/run_app.jpg)
 
 
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
