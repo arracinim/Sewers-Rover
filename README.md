@@ -11,7 +11,9 @@ Model implemented with YOLO v3. App created with Dash
 - Then copy both folders in the project folder (This folder contains all the data requiered for YOLO V3 model)
 - Finally inside the main folder of the project run the command: 
 
-'''python index.py'''
+'''
+python index.py
+'''
 
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
