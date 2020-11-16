@@ -13,13 +13,20 @@ If you want to run the application locally:
 
 ![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/app_2.jpg)
 
-3. Finally inside the main folder of the project run the command: 
+3. Install all the requirements. Inside the main folder of the project run the command:
+
+```
+pip install -r requirements.txt
+```
+
+4. Finally inside the main folder of the project run the command: 
 
 ```
 python index.py
 ```
 
 ![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/run_app.jpg)
+![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/dashboard_running.jpg)
 
 
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
