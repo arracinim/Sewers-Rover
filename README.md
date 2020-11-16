@@ -6,10 +6,11 @@ App for detection of failuresin sewer systems of the city of Medellin - Colombia
 Model implemented with YOLO v3. App created with Dash
 
 **IMPORTANT**
+If you want to run the application locally:
 
-- You must download the data from this link: https://drive.google.com/u/1/uc?export=download&confirm=RvgA&id=10777tL9PnvYKCxK78tSM_xSB_gsUXN-1
-- Then copy both folders in the project folder (This folder contains all the data requiered for YOLO V3 model)
-- Finally inside the main folder of the project run the command: 
+1. You must download the data of the model from this link: https://drive.google.com/u/1/uc?export=download&confirm=RvgA&id=10777tL9PnvYKCxK78tSM_xSB_gsUXN-1
+2. Then copy and paste both folders inside the project folder (This folder contains all the data requiered for YOLO V3 model)
+3. Finally inside the main folder of the project run the command: 
 
 ```
 python index.py
