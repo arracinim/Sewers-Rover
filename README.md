@@ -29,6 +29,8 @@ python index.py
 ![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/dashboard_running.jpg)
 
 
+5. If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip and test the app with this images. 
+
 Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
 # Training 
