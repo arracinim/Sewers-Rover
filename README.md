@@ -13,7 +13,7 @@ In accordance with epm's security and infrastructure policies, the sewerage syst
 https://ds4.epm.com.co/
 ```
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=SPBod3KFhPs)
+[![ScreenShot](https://github.com/arracinim/Sewers-Rover/blob/master/static/Video.png)](https://www.youtube.com/watch?v=SPBod3KFhPs)
 
 
 * If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download and test the app with this images. 
