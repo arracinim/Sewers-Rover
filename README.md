@@ -13,6 +13,8 @@ In accordance with epm's security and infrastructure policies, the sewerage syst
 https://ds4.epm.com.co/
 ```
 
+The following video illustrates how to use the App
+
 [![ScreenShot](https://github.com/arracinim/Sewers-Rover/blob/master/static/Video.png)](https://www.youtube.com/watch?v=SPBod3KFhPs)
 
 
