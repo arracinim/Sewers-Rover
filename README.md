@@ -13,9 +13,7 @@ In accordance with epm's security and infrastructure policies, the sewerage syst
 https://ds4.epm.com.co/
 ```
 
-[![Alt text for your video](http://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://www.youtube.com/watch?v=T-D1KVIuvjA)
-
-Fuente: https://www.iteramos.com/pregunta/16559/-como-incrustar-un-video-en-github-readmemd-
+[![Alt text for your video](https://youtu.be/SPBod3KFhPs)
 
 * If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download and test the app with this images. 
 
