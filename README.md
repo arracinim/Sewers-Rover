@@ -7,7 +7,7 @@ Model implemented with YOLO v3. App created with Dash
 
 
 # App Services
-In accordance with epm's security and infrastructure policies, the sewerage system anomaly detection service was mounted in the AZURE cloud and deployed for use at the url:
+In accordance with epm's security and infrastructure policies, the sewerage system anomaly detection service was mounted in the AZURE and Google cloud and deployed for use at the url:
 
 GCP LINK
 
