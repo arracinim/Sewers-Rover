@@ -13,6 +13,9 @@ In accordance with epm's security and infrastructure policies, the sewerage syst
 https://ds4.epm.com.co/
 ```
 
+* If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip and test the app with this images o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download 
+
+
 **IMPORTANT**
 If you want to run the application locally:
 
@@ -37,7 +40,6 @@ python index.py
 ![IMAGEN_2](https://github.com/arracinim/Sewers-Rover/blob/master/static/dashboard_running.jpg)
 
 
-5. If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip and test the app with this images. 
 
 
 # Training 
