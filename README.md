@@ -34,7 +34,6 @@ python index.py
 
 5. If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip and test the app with this images. 
 
-Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.
 
 # Training 
 
@@ -145,6 +144,7 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 * https://github.com/ultralytics/yolov5
 
 ## Thanks
+*Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.*
 * # *MinTic*
 * # *epm*
 * # *DS4*
