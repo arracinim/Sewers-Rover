@@ -145,14 +145,14 @@ Different experiments were carried out with the different versions of YOLO: V3, 
 
 ## Thanks
 *Thanks for being intersted in this project. Special greetings to EPM, Correlation One and Mintic for this oportunity.*
-* # *MinTic*
-* # *epm*
-* # *DS4*
-* # *TAs*
-* # *TA OSCAR*
-* # *TA ALI*
-* # *NATESH*
-* # *NELSON epm*
-* # *TEAM7*
-* # *ZARCHARY*
-* # *JIMMI JING*
+* \# *MinTic*
+* \# *epm*
+* \\# *DS4*
+* \# *TAs*
+* \# *TA OSCAR*
+* \# *TA ALI*
+* \# *NATESH*
+* \# *NELSON epm*
+* \# *TEAM7*
+* \# *ZARCHARY*
+* \# *JIMMI JING*
