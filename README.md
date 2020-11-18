@@ -13,7 +13,7 @@ In accordance with epm's security and infrastructure policies, the sewerage syst
 https://ds4.epm.com.co/
 ```
 
-* If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip and test the app with this images o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download 
+* If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download and test the app with this images. 
 
 
 **IMPORTANT**
