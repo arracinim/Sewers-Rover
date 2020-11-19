@@ -9,16 +9,16 @@ Model implemented with YOLO v3. App created with Dash
 # App Services
 In accordance with epm's security and infrastructure policies, the sewerage system anomaly detection service was mounted in the AZURE and Google cloud and deployed for use at the url:
 
-GCP LINK
+GCP LINK (App Public)
 
 ```
 https://ds4a-team-7-mv5d6qz22q-uc.a.run.app
 ```
 
 
-AZURE LINK
+AZURE LINK (App Private - only login with VPN)
 ```
-https://ds4.epm.com.co/
+https://wa-epm-prod-ds4.prod-ase01.epm.com.co/
 ```
 
 The following video illustrates how to use the App
