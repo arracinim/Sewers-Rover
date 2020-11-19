@@ -18,7 +18,7 @@ https://wa-epm-prod-ds4.prod-ase01.epm.com.co/ <br>
 
 The following video illustrates how to use the App
 
-[![ScreenShot](https://github.com/arracinim/Sewers-Rover/blob/master/static/Video.png)](https://youtu.be/fvE-v5ZP3Nc)
+[![ScreenShot](https://github.com/arracinim/Sewers-Rover/blob/master/static/APP.JPG)](https://youtu.be/fvE-v5ZP3Nc)
 
 
 * If you want to test the app with sewers faillures. Extract the folder called: Sample_images.zip o https://drive.google.com/u/1/uc?id=16GTvZwzdWhFhLtqN23PGg7RGA_NibMaT&export=download and test the app with this images. 
