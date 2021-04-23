@@ -1,6 +1,6 @@
 # EPM CCTV Sewers Faillure Detection
 
-*About the Project*
+**About the Project**
 
 App for detection of failuresin sewer systems of the city of Medellin - Colombia. 
 Model implemented with YOLO v3. App created with Dash
